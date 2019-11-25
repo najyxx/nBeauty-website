@@ -1,0 +1,57 @@
+/*
+{
+ margin: 0;
+padding: 0;
+}*/
+body
+{
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+div.carouselExampleIndicators
+{
+  background-color: black;
+}
+#nav-navbar
+{
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.navbar
+{
+  background-image: linear-gradient(to right, #ffffff, #e3128c);
+  padding: 0 !important;
+}
+.nav-brand img
+{
+  height: 40px;
+  padding-left: 20px;
+}
+ .navbar-nav li
+ {
+   padding: 0 10px;
+ }
+ .navbar-nav li a
+ {
+   color:#000 !important;
+   font width: 600;
+   float: left;
+   text-align: right;
+ }
+.fa-bars{
+  color: #fff;
+  font-size: 30px !important;
+}
+
+.navbar-toggler {
+  outline: none !important;
+}
+
+.d-block{
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+}
