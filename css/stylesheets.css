@@ -10,6 +10,11 @@ body
   margin: 0;
   padding: 0;
 }
+#banner-content
+{
+  color: #ffffff !important;
+}
+
 
 div.carouselExampleIndicators
 {
